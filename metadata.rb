@@ -8,7 +8,7 @@ version          '2.7.0'
 
 source_url       'https://github.com/sous-chefs/line'
 issues_url       'https://github.com/sous-chefs/line/issues'
-chef_version     '>= 12.13.37'
+chef_version     '>= 12.11.0'
 
 %w(debian ubuntu centos redhat scientific oracle amazon windows).each do |os|
   supports os
